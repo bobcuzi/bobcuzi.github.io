@@ -7,4 +7,4 @@ Writing a hello world here:
 
 
 
-![My helpful screenshot]({{ "/assets/Mila.jpg" | absolute_url }})
+![My helpful screenshot]({{ "/assets/Mila_800.jpg" | absolute_url }})
