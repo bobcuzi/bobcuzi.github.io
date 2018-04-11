@@ -8,3 +8,8 @@ Writing a hello world here:
 
 
 ![My helpful screenshot]({{ "/assets/Mila_700_sharpened.jpg" | absolute_url }})
+
+
+![My helpful screenshot]({{ "/assets/Mila_2.jpg" | absolute_url }})
+
+Ending
